@@ -1,0 +1,34 @@
+ {
+	    "id": 1,
+        "name": "Dr. Anurag Krishna",
+        "location": "hyderabad"   
+    },
+
+    {
+    	"id": 2,
+    	"name": "DR. ANANT KUMAR",
+        "location": "hyderabad"   
+    },
+    {
+    	"id": 3,
+    "name":"Dr. Pradeep Chowbey",
+    "location": "hyderabad"
+    },
+
+    {
+    	"id": 4,
+    "name":"Dr. A.K. Singh",
+    "location": "hyderabad"
+    },
+
+    {
+    	"id": 5,
+    "name":" Dr. Neera Aggarwal",
+    "location": "hyderabad"
+    },
+
+    {
+    	"id": 6,
+    "name":"nandagopal",
+    "location": "hyderabad"
+    }
